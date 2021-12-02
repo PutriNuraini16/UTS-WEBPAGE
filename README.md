@@ -1,2 +1,2 @@
 # UTS-WEBPAGE
-Membuat Design Webpage Untuk UTS
+Membuat Design Website Untuk UTS
